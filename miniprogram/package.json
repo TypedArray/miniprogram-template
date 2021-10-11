@@ -1,0 +1,10 @@
+{
+  "name": "miniprogram",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "lomocc",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^2.25.0"
+  }
+}
